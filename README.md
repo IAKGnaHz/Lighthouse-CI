@@ -1,5 +1,3 @@
-# finance-admin
-
 ### setup
 
 `npm i`
