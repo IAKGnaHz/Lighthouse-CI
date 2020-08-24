@@ -1,10 +1,10 @@
 module.exports = {
     ci: {
       collect: {
-        staticDistDir: './public'
+        staticDistDir: './dist/index.html'
       },
       upload: {
-        url: ['http://localhost:8666'],
+        url: ['https://www.baidu.com/'],
         target: 'temporary-public-storage',
       },
     },
